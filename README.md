@@ -5,6 +5,7 @@
 </p>
 
 **KI-Kennzeichenidentifikations- und Analysesystem direkt by Browser**
+
 Link: https://miaoima.github.io/Blurry_NumPlate/
 ---
 ### DE：
