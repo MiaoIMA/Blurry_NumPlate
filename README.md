@@ -61,4 +61,4 @@ yarn build # Build for productions
 
 - https://github.com/ultralytics/ultralytics
 - https://github.com/Hyuto/yolov8-onnxruntime-web
-- https://www.kaggle.com/code/kexinluu/yolo-v8-vehicles-detecting-counting/edit
+
