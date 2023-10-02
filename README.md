@@ -41,6 +41,7 @@ Currently, there is a synchronization issue in the project during the real-time 
 ### Significance of the Project:
 Through the implementation of this project, we can effectively prevent the leakage of personal information due to the publication of images or videos. It helps to enhance public trust and satisfaction in personal data protection and also complies with relevant legal and policy requirements.
 
+---
 ##Einrichtung
 
 ```shell
