@@ -1,0 +1,13 @@
+description: Ultralytics YOLOv8s_NumPla_last model trained on /kaggle/working/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-10-02T12:11:13.107881'
+version: 8.0.190
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: car_plate
