@@ -48,6 +48,28 @@ Currently, there is a synchronization issue in the project during the real-time 
 Through the implementation of this project, we can effectively prevent the leakage of personal information due to the publication of images or videos. It helps to enhance public trust and satisfaction in personal data protection and also complies with relevant legal and policy requirements.
 
 ---
+
+## Dataset
+
+Das untenstehende Bild gibt einen Überblick über den Trainingsdatensatz. Obwohl die Anzahl der Bilder relativ gering ist, etwa nur 500, erfüllt das Vorhersageergebnis dennoch grundsätzlich unsere Anforderungen.
+<p align="center">
+  <img src="./labels.jpg" />
+</p>
+
+
+## Result
+
+Bei Betrachtung der Vorhersageergebnisse stellen wir fest, dass das Modell im Großen und Ganzen unseren Erwartungen entspricht. Allerdings glauben wir, dass bei mehr Trainingsepochen der Verlust (Loss) noch weiter reduziert werden könnte, da er derzeit noch einen abnehmenden Trend aufweist.
+<p align="center">
+  <img src="./results.png" />
+</p>
+<p align="center">
+  <img src="./val_batch0_pred.jpg" />
+</p>
+<p align="center">
+  <img src="./F1_curve.png" />
+</p>
+
 ##Einrichtung
 
 ```shell
