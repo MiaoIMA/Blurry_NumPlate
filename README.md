@@ -70,20 +70,6 @@ Bei Betrachtung der Vorhersageergebnisse stellen wir fest, dass das Modell im Gr
   <img src="./F1_curve.png" />
 </p>
 
-##Einrichtung
-
-```shell
-git clone https://github.com/Hyuto/yolov8-tfjs.git
-cd yolov8x
-yarn install #Install dependencies
-```
-
-##Skripte
-
-```shell
-yarn start # Start dev server
-yarn build # Build for productions
-```
 
 ## Reference
 
