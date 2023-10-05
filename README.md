@@ -1,4 +1,4 @@
-# 🚗 Kennzeichen unkenntlich machen
+# 🚗 Identifizierung und Verschleierung von Kfz-Kennzeichen: Ein Modell zum Schutz Persönlicher Informationen
 
 <p align="center">
   <img src="./sample.png" />
